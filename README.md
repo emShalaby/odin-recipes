@@ -1,3 +1,3 @@
 The odin-recipe project!
 
-work on progress... 🚧
+Because we all have to learn about list elements at some point!
